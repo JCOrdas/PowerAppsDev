@@ -113,7 +113,7 @@
     "Id": "3453a682-bd6d-4055-b11b-bffc8c0a5059",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "",
-    "ManualOfflineProfileId": "",
+    "ManualOfflineProfileId": null,
     "Name": "App",
     "OriginatingVersion": "1.335",
     "ParserErrorCount": 0,
@@ -128,7 +128,7 @@
     "PublishDataLocally": false,
     "PublishResourcesLocally": false,
     "PublishTarget": "player",
-    "UserLocale": "fr-FR"
+    "UserLocale": "en-US"
   },
   "ScreenOrder": [
     "Screen1"
