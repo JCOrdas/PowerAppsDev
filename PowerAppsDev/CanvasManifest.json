@@ -10,7 +10,7 @@
     "MSAppStructureVersion": "2.0"
   },
   "Properties": {
-    "AppCreationSource": "AppFromScratch",
+    "AppCreationSource": "Unknown",
     "AppDescription": "",
     "AppPreviewFlagsMap": {
       "aibuilderserviceenrollment": false,
@@ -23,7 +23,7 @@
       "cdsdataformatting": false,
       "classiccontrols": false,
       "consistentreturnschemafortabularfunctions": true,
-      "copyandmerge": true,
+      "copyandmerge": false,
       "dataflowanalysisenabled": false,
       "datatablev2control": true,
       "dataverseactionsenabled": true,
@@ -46,7 +46,7 @@
       "enableonstartnavigate": false,
       "enablepcfmoderndatasets": true,
       "enablerowscopeonetonexpand": false,
-      "enablerpawarecomponentdependency": true,
+      "enablerpawarecomponentdependency": false,
       "enablerulespanel": false,
       "enableruntimepolicies": true,
       "enablesaveloadcleardataonweb": true,
@@ -94,7 +94,7 @@
       "useguiddatatypes": true,
       "usenonblockingonstartrule": true,
       "webbarcodescanner": false,
-      "zeroalltabindexes": false
+      "zeroalltabindexes": true
     },
     "Author": "",
     "BindingErrorCount": 0,
@@ -109,18 +109,18 @@
     "DocumentLayoutWidth": 1366,
     "DocumentType": "App",
     "EnableInstrumentation": false,
-    "FileID": "2d8d2e76-8549-46b0-b01b-acd027f96ac3",
-    "Id": "2d8d2e76-8549-46b0-b01b-acd027f96ac3",
+    "FileID": "3453a682-bd6d-4055-b11b-bffc8c0a5059",
+    "Id": "3453a682-bd6d-4055-b11b-bffc8c0a5059",
     "InstrumentationKey": "",
-    "LocalDatabaseReferences": "{}",
-    "ManualOfflineProfileId": "",
-    "Name": "CofcoTestApp",
+    "LocalDatabaseReferences": "",
+    "ManualOfflineProfileId": null,
+    "Name": "App",
     "OriginatingVersion": "1.335",
     "ParserErrorCount": 0,
     "ShowStatusBar": false
   },
   "PublishInfo": {
-    "AppName": "CofcoTestApp",
+    "AppName": "App",
     "BackgroundColor": "RGBA(0,176,240,1)",
     "IconColor": "RGBA(255,255,255,1)",
     "IconName": "Edit",
